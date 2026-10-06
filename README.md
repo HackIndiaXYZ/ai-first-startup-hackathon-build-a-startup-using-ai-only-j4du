@@ -1,4 +1,4 @@
-Live Link - driprig.j4du.in
+[Live Demo](https://driprig.j4du.in)
 
 # DripRig — Virtual Try-On
 
